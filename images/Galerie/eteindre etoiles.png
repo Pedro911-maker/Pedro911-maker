@@ -1,0 +1,412 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Eteindre les étoiles pour détecter la vie — Astronoo</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="Content-Language" content="fr"><meta name="keywords" content="éteindre les étoiles détection des exoplanètes, zone habitable, Kepler, exoplanète, le bon coin, exoterre, vie, "><meta name="description" content="Pour découvrir la vie dans l'Univers, il faudra éteindre les étoiles."><meta name="copyright" content="© Astronoo"><meta name="Author" content="Christian Simoes"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><link rel="stylesheet" type="text/css" href="/styles/astronoo.css"><link rel="stylesheet" type="text/css" href="/styles/menu.css"><script type="text/javascript" src="/js/openFrame.js"></script>
+<script type="text/javascript">
+var flags = null;
+function changeLang(a, lang){
+	var newUrl = document.getElementById("lang-" + lang);
+	if(newUrl){
+		a.href = newUrl.href;
+	}
+	else{
+		a.href = "/" + lang + "/index.html";
+	}
+	return true;
+}
+</script>
+<script data-ad-client="ca-pub-7403875279341833" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+</head><body><div id="flagLanguage"><a id="lang-fr" href="/fr/articles/eteindre-les-etoiles.html">fr</a> <a id="lang-en" href="/en/articles/turn-off-the-stars.html">en</a> <a id="lang-es" href="/es/articulos/apagar-las-estrellas.html">es</a> <a id="lang-pt" href="/pt/artigos/apagar-as-estrelas.html">pt</a> </div><div class="divGlobal"><!--webbot bot="Include" u-include="../../_include/_menu/_menu-fr.html" tag="BODY" startspan -->
+
+<table class="table1200">
+	 <tr>
+		 <td class="tdImgLogoAstronoo"><a href="http://www.astronoo.com/fr/"><img alt="astronomie" src="/images/logos/astronoo-logo-fr.gif"></a></td>
+		 <td><table id="menuList">
+			  <tr>
+				  <td>&nbsp;</td>
+			  </tr>
+			  <tr>
+				  <td><div class="menu">
+					  <div id="T1" name="mntitle" class="menuTitle menuTitle1">
+						  Particules</div>
+					  <div id="S_T1" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Tableau des éléments chimiques" name="aitem" href="../tableau-elements.html" target="_self">Éléments</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Les particules de la matière" name="aitem" href="particules-subatomiques.html" target="_self">Particules</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Électron, particule quantique" name="aitem" href="electron.html" target="_self">Électron</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Hadrons, particules subatomiques" name="aitem" href="hadron.html" target="_self">Hadron</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Atome" name="aitem" href="atome.html" target="_self">Atome</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Spectre électromagnétique et lumière" name="aitem" href="spectre-electromagnetique.html" target="_self">Lumière</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Voyage du photon" name="aitem" href="voyage-du-photon.html" target="_self">Photon</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Taille des nanoparticules" name="aitem" href="nanoparticules.html" target="_self">Nanoparticules</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Neutrino et composants de la matière" name="aitem" href="neutrino.html" target="_self">Neutrino</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Vide absolu et ultravide" name="aitem" href="vide.html" target="_self">Vide</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Magnétisme" name="aitem" href="magnetisme-et-moment-magnetique.html" target="_self">Magnétisme</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="LHC, le grand collisionneur de hadrons" name="aitem" href="lhc.html" target="_self">LHC</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Champ quantique" name="aitem" href="theorie-quantique-des-champs.html" target="_self">Champ quantique</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T2" name="mntitle" class="menuTitle menuTitle2">
+						  La vie</div>
+					  <div id="S_T2" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="L'inerte et le vivant" name="aitem" href="inerte-et-vivant.html" target="_self">L&#39;inerte et le vivant</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Cellule et système vivant" name="aitem" href="cellule-vivante.html" target="_self">Le vivant</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="L´eau liquide, la molécule parfaite" name="aitem" href="eau-liquide.html" target="_self">Eau liquide</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Sommes-nous seuls dans l´univers" name="aitem" href="sommes-nous-seuls.html" target="_self">Sommes-nous seuls</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Toumaï dans le désert du Tchad, crâne fossile" name="aitem" href="toumai.html" target="_self">Toumaï</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Vie des abysses, organismes étonnants" name="aitem" href="vie-des-abysses.html" target="_self">Les abysses</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Ordovicien ou l´explosion de la vie" name="aitem" href="ordovicien.html" target="_self">Explosion de la vie</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="L´homme de Néandertal" name="aitem" href="neandertal.html" target="_self">Néandertal</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Asimo le furur humanoïde" name="aitem" href="asimo.html" target="_self">Asimo</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Les tardigrades" name="aitem" href="../actualites/tardigrade.html" target="_self">Les tardigrades</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Réchauffement climatique et effet de serre" name="aitem" href="rechauffement.html" target="_self">Le réchauffement</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T3" name="mntitle" class="menuTitle menuTitle3">
+						  Planètes</div>
+					  <div id="S_T3" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Simulateur en ligne sur la position des planètes" name="aitem" href="positions-des-planetes.html" target="_self">Simulateur</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Mercure la plus petite planète" name="aitem" href="../mercure.html" target="_self">Mercure</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Vénus la planète la plus chaude" name="aitem" href="../venus.html" target="_self">Vénus</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Terre, planète bleue" name="aitem" href="../terre.html" target="_self">Terre</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Mars la planète chérie" name="aitem" href="../mars.html" target="_self">Mars</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Astéroïdes et météorites" name="aitem" href="../asteroides.html" target="_self">Astéroïdes</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Jupiter la planète protectrice" name="aitem" href="../jupiter.html" target="_self">Jupiter</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Saturne la planète aux anneaux" name="aitem" href="../saturne.html" target="_self">Saturne</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Uranus la planète couchée" name="aitem" href="../uranus.html" target="_self">Uranus</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Neptune la dernière planète" name="aitem" href="../neptune.html" target="_self">Neptune</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Planètes naines au delà de Neptune" name="aitem" href="../planetes-naines.html" target="_self">Planètes naines</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Comètes, figure de malheur dans le nuage de Oort" name="aitem" href="../cometes.html" target="_self">Comètes</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Exoplanètes, planètes extrasolaires" name="aitem" href="../exoplanetes.html" target="_self">Exoplanètes</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T4" name="mntitle" class="menuTitle menuTitle4">
+						  Étoiles</div>
+					  <div id="S_T4" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Étoiles, masse et composition" name="aitem" href="../etoiles.html" target="_self">Étoiles</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Étoiles proches" name="aitem" href="../etoiles-proches.html" target="_self">Étoiles proches</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Étoiles brillantes" name="aitem" href="../etoiles-brillantes.html" target="_self">Étoiles brillantes</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Supernova" name="aitem" href="../supernova.html" target="_self">Supernova</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Amas d'étoiles de la Galaxie" name="aitem" href="../amas-etoiles.html" target="_self">Amas d&#39;étoiles</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Constellations, figures imaginaires" name="aitem" href="../constellations.html" target="_self">Constellations</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Pulsars, étoiles naines" name="aitem" href="../pulsar.html" target="_self">Pulsars</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Système solaire et planètes" name="aitem" href="../systeme-solaire.html" target="_self">Système solaire</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Soleil, étoile naine jaune" name="aitem" href="../soleil.html" target="_self">Soleil</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Héliosphère" name="aitem" href="heliosphere.html" target="_self">Héliosphère</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Poussière interstellaire" name="aitem" href="poussiere-interstellaire.html" target="_self">Poussière interstellaire</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Signes du zodiaque, Astrologie, votre signe astral" name="aitem" href="../zodiaque.html" target="_self">Signes du Zodiaque</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T5" name="mntitle" class="menuTitle menuTitle5">
+						  Galaxies</div>
+					  <div id="S_T5" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Galaxies elliptiques, spirales, irrégulières" name="aitem" href="../galaxies.html" target="_self">Galaxies</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Quasars, noyaux de galaxies lointaines" name="aitem" href="../quasar.html" target="_self">Quasars</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Voie Lactée ou Galaxie" name="aitem" href="../voie-lactee.html" target="_self">Voie lactée</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Ceinture de Gould" name="aitem" href="../ceinture-de-gould.html" target="_self">Ceinture de Gould</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Nébuleuses, nuage de gaz et de poussières" name="aitem" href="../nebuleuses.html" target="_self">Nébuleuses</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Nébuleuses planétaires" name="aitem" href="../nebuleuses-planetaires.html" target="_self">Nébuleuses planétaires</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Nébuleuses obscures" name="aitem" href="../nebuleuses-obscures.html" target="_self">Nébuleuses obscures</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Trous noirs et champ gravitationnel" name="aitem" href="trous-noirs.html" target="_self">Trou noir</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Groupe Local" name="aitem" href="../groupe-local.html" target="_self">Groupe Local</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T6" name="mntitle" class="menuTitle menuTitle6">
+						  Univers</div>
+					  <div id="S_T6" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Vide quantique" name="aitem" href="vide-quantique.html" target="_self">Vide quantique</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Amas galactiques, grosses structure de l´Univers" name="aitem" href="../amas-galactiques.html" target="_self">Amas de galaxies</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Superamas" name="aitem" href="superamas-laniakea.html" target="_self">Superamas</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Big Bang, rayonnement fossile" name="aitem" href="../bigbang.html" target="_self">Big Bang</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Multivers, bulle cosmique en expansion" name="aitem" href="../multivers.html" target="_self">Multivers</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="L´Univers et son origine" name="aitem" href="../univers.html" target="_self">Univers</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Matière noire" name="aitem" href="matiere-noire-energie.html" target="_self">Matière noire</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Énergie noire" name="aitem" href="energie-noire.html" target="_self">Énergie noire</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T7" name="mntitle" class="menuTitle menuTitle7">
+&nbsp;&nbsp;&nbsp; ...</div>
+					  <div id="S_T7" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Articles d´astronomie" name="aitem" href="articles-astronomie-p16.html" target="_self">Articles</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Biographies, hommes de sciences" name="aitem" href="../biographies.html" target="_self">Biographies</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Sondes spatiales ou l´homme dans l´espace" name="aitem" href="../sondes-spatiales.html" target="_self">Sondes</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Satellite d´observation, la surveillance de la Planète" name="aitem" href="../satellites-observation.html" target="_self">Satellites</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Télescopes spatiaux, la surveillance du système" name="aitem" href="../telescopes-spatiaux.html" target="_self">Télescopes spatiaux</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Les plus grands télescopes terrestres" name="aitem" href="../telescopes-terrestres.html" target="_self">Télescopes terrestres</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Citations des hommes de sciences" name="aitem" href="../citations.html" target="_self">Citations</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Faq réponses sur la physique de l´Univers" name="aitem" href="../faq.html" target="_self">FAQ</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Astronomie pour les enfants" name="aitem" href="../enfants/index.html" target="_self">Astronomie enfants</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Vidéos et documentaires sur l´Univers" name="aitem" href="../videos/videos-astronomie-p1.html" target="_self">Vidéos</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Partenaires, références, boutiques" name="aitem" href="../partenaires.html" target="_self">Partenaires</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="A propos du site astronoo, l´espace infini" name="aitem" href="../a-propos.html" target="_self">à propos...</a></div>
+					  </div>
+				  </div>
+				  </td>
+			  </tr>
+		 </table>
+		 <script type="text/javascript">var _0x3405=["\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x75\x6E\x64\x65\x66\x69\x6E\x65\x64","\x61\x74\x74\x61\x63\x68\x45\x76\x65\x6E\x74","\x6F\x6E","\x65\x76\x65\x6E\x74","\x74\x61\x72\x67\x65\x74","\x73\x72\x63\x45\x6C\x65\x6D\x65\x6E\x74","\x6E\x6F\x64\x65\x54\x79\x70\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65","\x74\x69\x6D\x65\x6F\x75\x74","\x66\x63\x74","\x6D\x65\x6E\x75\x4C\x69\x73\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x69\x74\x65\x6D\x73","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x4E\x61\x6D\x65","\x6C\x65\x6E\x67\x74\x68","\x64\x69\x76","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x6E\x61\x6D\x65","\x67\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x6D\x6F\x75\x73\x65\x6F\x76\x65\x72","\x6D\x6E\x74\x69\x74\x6C\x65","\x53\x5F","\x69\x64","\x6F\x72\x69\x67\x43\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x20\x6D\x65\x6E\x75\x54\x69\x74\x6C\x65\x53\x65\x6C\x65\x63\x74\x65\x64","\x64\x69\x73\x70\x6C\x61\x79","\x73\x74\x79\x6C\x65","\x62\x6C\x6F\x63\x6B","\x6F\x66\x66\x73\x65\x74\x4C\x65\x66\x74","\x70\x78","\x6C\x65\x66\x74","\x69\x74\x65\x6D","\x6D\x65\x6E\x75\x49\x74\x65\x6D\x20\x6D\x65\x6E\x75\x49\x74\x65\x6D\x53\x65\x6C\x65\x63\x74\x65\x64","\x61\x69\x74\x65\x6D","\x63\x6C\x69\x63\x6B","\x63\x68\x69\x6C\x64\x4E\x6F\x64\x65\x73","\x68\x72\x65\x66","\x5F\x73\x65\x6C\x66","","\x6F\x70\x65\x6E","\x6D\x6F\x75\x73\x65\x6F\x75\x74","\x6E\x6F\x6E\x65","\x6D\x65\x6E\x75\x49\x74\x65\x6D"];function addEventLst(_0x88cbx2,_0x88cbx3,_0x88cbx4){if( typeof _0x88cbx2[_0x3405[0]]!=_0x3405[1]){_0x88cbx2[_0x3405[0]](_0x88cbx3,_0x88cbx4,false);} else {if( typeof _0x88cbx2[_0x3405[2]]!=_0x3405[1]){_0x88cbx2[_0x3405[2]](_0x3405[3]+_0x88cbx3,_0x88cbx4);} else {_0x88cbx2[_0x3405[3]+_0x88cbx3]=_0x88cbx4;} ;} ;} ;function getEvtTarget(_0x88cbx6){var _0x88cbx7;if(!_0x88cbx6){var _0x88cbx6=window[_0x3405[4]];} ;if(_0x88cbx6[_0x3405[5]]){_0x88cbx7=_0x88cbx6[_0x3405[5]];} else {if(_0x88cbx6[_0x3405[6]]){_0x88cbx7=_0x88cbx6[_0x3405[6]];} ;} ;if(_0x88cbx7[_0x3405[7]]==3){_0x88cbx7=_0x88cbx7[_0x3405[8]];} ;return _0x88cbx7;} ;var closeTimeout=500;var menuListTimeout= new Object();function setMenuTimeout(_0x88cbxb,_0x88cbx4){clearMenuTimeout(_0x88cbxb);menuListTimeout[_0x88cbxb]={key:_0x88cbxb,fct:_0x88cbx4,timeout:null};menuListTimeout[_0x88cbxb][_0x3405[9]]=setTimeout(_0x88cbx4,closeTimeout);} ;function clearMenuTimeout(_0x88cbxb){if(menuListTimeout[_0x88cbxb]&&menuListTimeout[_0x88cbxb][_0x3405[9]]!=null){clearTimeout(menuListTimeout[_0x88cbxb][_0x3405[9]]);delete menuListTimeout[_0x88cbxb];} ;} ;function pauseMenuTimeout(_0x88cbxb){if(menuListTimeout[_0x88cbxb]&&menuListTimeout[_0x88cbxb][_0x3405[9]]!=null){clearTimeout(menuListTimeout[_0x88cbxb][_0x3405[9]]);menuListTimeout[_0x88cbxb][_0x3405[9]]=null;} ;} ;function restartMenuTimeout(_0x88cbxb){pauseMenuTimeout(_0x88cbxb);if(menuListTimeout[_0x88cbxb]){menuListTimeout[_0x88cbxb][_0x3405[9]]=setTimeout(menuListTimeout[_0x88cbxb][_0x3405[10]],closeTimeout);} ;} ;function execMenuTimeout(_0x88cbx10){for(var _0x88cbxb in menuListTimeout){if(_0x88cbx10!=_0x88cbxb&&menuListTimeout[_0x88cbxb]){clearTimeout(menuListTimeout[_0x88cbxb][_0x3405[9]]);menuListTimeout[_0x88cbxb][_0x3405[10]]();delete menuListTimeout[_0x88cbxb];} ;} ;} ;var menuList=document[_0x3405[12]](_0x3405[11]);var itemsList=document[_0x3405[14]](_0x3405[13]);if(!itemsList||itemsList[_0x3405[15]]<1){itemsList=document[_0x3405[17]](_0x3405[16]);} ;for(var i=0;i<itemsList[_0x3405[15]];i++){if(itemsList[i][_0x3405[19]](_0x3405[18])==_0x3405[13]){itemsList[i][_0x3405[20]]=_0x3405[13];} ;} ;if(menuList){addEventLst(menuList,_0x3405[21],function (_0x88cbx14){var _0x88cbx15=getEvtTarget(_0x88cbx14);if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[22]){clearMenuTimeout(_0x3405[23]+_0x88cbx15[_0x3405[24]]);execMenuTimeout(_0x3405[23]+_0x88cbx15[_0x3405[24]]);if(!_0x88cbx15[_0x3405[25]]){_0x88cbx15[_0x3405[25]]=_0x88cbx15[_0x3405[20]];} ;_0x88cbx15[_0x3405[20]]=_0x88cbx15[_0x3405[25]]+_0x3405[26];var _0x88cbx16=document[_0x3405[12]](_0x3405[23]+_0x88cbx15[_0x3405[24]]);_0x88cbx16[_0x3405[28]][_0x3405[27]]=_0x3405[29];var _0x88cbx17=_0x88cbx15[_0x3405[30]]+_0x3405[31];if(_0x88cbx16[_0x3405[28]][_0x3405[32]]!=_0x88cbx17){_0x88cbx16[_0x3405[28]][_0x3405[32]]=_0x88cbx17;} ;} else {if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[33]){if(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[19]](_0x3405[18])==_0x3405[13]){pauseMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[24]]);} else {pauseMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[24]]);} ;_0x88cbx15[_0x3405[20]]=_0x3405[34];} else {if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[35]){if(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[19]](_0x3405[18])==_0x3405[13]){pauseMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[24]]);} else {pauseMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[24]]);} ;_0x88cbx15[_0x3405[8]][_0x3405[20]]=_0x3405[34];} ;} ;} ;} );addEventLst(menuList,_0x3405[36],function (_0x88cbx14){var _0x88cbx15=getEvtTarget(_0x88cbx14);if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[33]){for(var i=0;i<_0x88cbx15[_0x3405[37]][_0x3405[15]];i++){if(_0x88cbx15[_0x3405[37]][i]&&_0x88cbx15[_0x3405[37]][i][_0x3405[19]]&&_0x88cbx15[_0x3405[37]][i][_0x3405[19]](_0x3405[18])==_0x3405[35]){window[_0x3405[41]](_0x88cbx15[_0x3405[37]][i][_0x3405[19]](_0x3405[38]),_0x3405[39],_0x3405[40]);} ;} ;} ;} );addEventLst(menuList,_0x3405[42],function (_0x88cbx14){var _0x88cbx15=getEvtTarget(_0x88cbx14);if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[22]){setMenuTimeout(_0x3405[23]+_0x88cbx15[_0x3405[24]],function (){_0x88cbx15[_0x3405[20]]=_0x88cbx15[_0x3405[25]];document[_0x3405[12]](_0x3405[23]+_0x88cbx15[_0x3405[24]])[_0x3405[28]][_0x3405[27]]=_0x3405[43];} );} else {if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[33]){if(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[19]](_0x3405[18])==_0x3405[13]){restartMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[24]]);} else {restartMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[24]]);} ;_0x88cbx15[_0x3405[20]]=_0x3405[44];} else {if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[35]){if(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[19]](_0x3405[18])==_0x3405[13]){restartMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[24]]);} else {restartMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[24]]);} ;_0x88cbx15[_0x3405[8]][_0x3405[20]]=_0x3405[44];} ;} ;} ;} );} ;</script>
+		 </td>
+	 </tr>
+</table>
+<table class="table1200">
+	 <tr>
+		 <td></td>
+		 <td class="tdSearchGoogle">
+		 <script async src="https://cse.google.com/cse.js?cx=partner-pub-7403875279341833:n6ilu8-lfoy"></script>
+			<div class="gcse-search"></div>
+		 </td>
+	 </tr>
+</table>
+<table class="table1200">
+	 <tr>
+		 <td><table>
+			  <tr>
+				  <td><a onclick="return changeLang(this, 'en');" title="English" href="/en/index.html"><div class="drapeau en">
+&nbsp;</div>
+				  </a></td>
+				  <td><a onclick="return changeLang(this, 'es');" title="Español" href="/es/index.html"><div class="drapeau es">
+&nbsp;</div>
+				  </a></td>
+				  <td><a onclick="return changeLang(this, 'fr');" title="Français" href="/fr/index.html"><div class="drapeau fr">
+&nbsp;</div>
+				  </a></td>
+				  <td><a onclick="return changeLang(this, 'pt');" title="Português" href="/pt/index.html"><div class="drapeau pt">
+&nbsp;</div>
+				  </a></td>
+				  <td class="ligne">&nbsp;</td>
+				  <td>&nbsp;&nbsp;
+						 <script type="text/javascript">
+						var a="<" + "a tile=\"Concr'ukhs.fm:@?bjàpdA+w>g/";
+						function getCharAt(str, lst){ var out = "";for(var i=0; i<lst.length; i++)out += str.charAt(lst[i]);return out;}
+						document.write(getCharAt(a,[0,1,2,3,4,3,5,6,7,8,9,10,11,3,1,12,3,6,13,2,5,14,1,15,3,6,15,13,8,2,10,11,12,5,4,12,16,7,8,3,17,4,18,19,17,13,6,20,2,7,2,14,21,1,4,5,3,10,22,12,10,11,3,1,12,3,23,1,18,3,13,10,11,10,10,19,12,10,21,24,18,15,25,26,6,12,3,7,27,2,28,13,10,28,10,18,2,29,15,2,18,4,3,6,2,30,18,3,13,10,11,10,10,2,14,2,31,2,32,4,11,29,10,32,19,5,10,12,1,3,4,10,11,19,17,13,6,20,8,33,0,4,21,34,2,1,5,3,7,8,9,10,11,3,1,12,3,6,13,2,5,14,1,15,3,6,15,13,8,2,18,13,12,7,8,35,4,21,1,34,6,18,35,5,10,34,10,18,35,21,1,4,5,19,26,28,34,8,33,0,35,1,33]));
+						</script></td>
+				  <td>&nbsp;&nbsp;
+				  	<a title="flux RSS Astronoo" href="/fr/rssAstronoo.xml" target="_blank"><img alt="rss astronoo" src="/images/logos/rss.jpg"></a>
+				  </td>
+			  </tr>
+		 </table>
+		 </td>
+	 </tr>
+	<tr>
+		<td>
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<ins class="adsbygoogle"
+				     style="display:block"
+				     data-ad-format="autorelaxed"
+				     data-ad-client="ca-pub-7403875279341833"
+				     data-ad-slot="7764746838"></ins>
+				<script>
+				     (adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+		</td>
+	</tr>
+</table>
+<!--webbot bot="Include" endspan i-checksum="37215" --><table class="table1200"><tr><td class="tdBody"><table class="tableauGrand"><tr class="titrePage"><td colspan="5"><h1>Comment voir les exoplanètes ? </h1></td></tr><tr><td class="colonneEditionSousTitre"><h2>Éteindre les étoiles pour détecter la vie</h2></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionVide">&nbsp;</td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionCategorie"><a class="category" href="../rubriques/exoplanetes.html">Catégorie : exoplanètes</a><br><span class="TexteBasDePage">Mise à jour 14 avril 2014</span></td></tr><tr><td class="colonneEdition"><p>La <strong>recherche de planètes extrasolaires</strong> est un véritable enjeu pour l'humanité, la question sous jacente à laquelle les scientifiques essaient de répondre est "&nbsp;sommes-nous seul dans l'Univers&nbsp;?&nbsp;". <br>Déjà au 16è siècle, Giordano Bruno (1548-1600), dans les traces de Copernic,&nbsp; remet en cause de façon visionnaire, le cadre anthropocentrique (géocentrisme) de l'homme (voir nota).<br>Depuis la première découverte&nbsp;de planètes extrasolaires en 1995 (51 Pegasi b), un grand nombre de projets spatiaux tels que HARPS (2003), CoRoT (2006), KEPLER (2009), JWST (2018) jusqu'à DARWIN (2020) ont obtenu un financement.<br>Jusqu'en 2020, les méthodes utilisées pour trouver les exoplanètes, seront des méthodes indirectes (effet du transit, effet sur la vitesse radiale, effet de microlentilles...), c'est-à-dire que les exoplanètes sont détectées seulement par les effets qu'elles provoquent sur leur étoile. Mais à partir de 2020, avec DARWIN, l'humanité toute entière pourra <strong>voir directement une planète extrasolaire</strong> et peut-être une exoterre. <br>En 2011, la NASA a confirmé la découverte de la première planète extrasolaire (2.4 masses terrestres) située dans la "zone habitable" de son étoile, une région où l'eau liquide pourrait exister à la surface d'une planète. <br>Mais voir la lumière réfléchie d'une planète n'a pas d'intérêt particulier si ce n'est, la voir se déplacer sur son orbite, ce qui est beaucoup plus intéressant c'est d'analyser la composition de son atmosphère.<br>L'objectif principale du projet spatial <strong>DARWIN</strong> est d'analyser le spectre lumineux de l’atmosphère d'une planète de l'ordre de quelques masses terrestres. En d'autres termes, il sera possible de détecter la présence de composés chimiques comme le dioxyde de carbone (CO2), l'eau (H2O), l'ozone (O3), l'oxygène (O2) ou tout autre assemblage ionique, et pourquoi pas des composés organiques basés sur un squelette carboné. Le CO2 en grande quantité ainsi que l'eau serait la signature d'une activité photosynthétique. <br>L'<strong>oxygène</strong> présente une particularité spécifique, cet atome agressif ne peut pas rester dans une enveloppe gazeuse autour d'une planète car il se lie très facilement avec les roches et les métaux, pour faire des oxydes. S'il y a de l'oxygène en quantité autour d'une planète cela veut dire que des phénomènes biotiques existent. Ces phénomènes biotiques révèlent la <strong>présence de la VIE</strong>. Aucun mécanisme physique ou chimique n'explique l'abondance de l'oxygène en dehors de mécanismes biochimiques. </p></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEdition"><p>Si toute la biomasse de la Terre disparaissait, alors l'oxygène disparaitrait aussi en seulement quelques millions d'années. <br>Chaque atome, chaque ion, et même chaque molécule possède une signature spectrale caractéristique (une série de raies dans le spectre électromagnétique). <br>Les espèces chimiques sont principalement détectées dans la bande spectrale infrarouge (9.7 µm pour l'ozone,&nbsp; 8 µm pour l'eau, 7.6 µm pour le méthane). Cette signature permet de détecter la présence et la concentration d'un composé chimique dans le milieu traversé par le rayonnement, entre la source et la détection par l'instrument spectroscopique. <br>Mais pour voir l'atmosphère d'une planète il faudra "éteindre son étoile". La mission DARWIN a été conçue pour cela, <strong>éteindre les étoiles</strong>. Son instrument s'appelle un <strong>coronographe interférométrique</strong>, il permet de masquer la lumière de l’étoile grâce à un système optique ingénieux qui met en opposition de phase plusieurs rayons lumineux corrélés arrivant sur plusieurs télescopes. En d'autres termes, si 2 télescopes observent la même étoile, les 2 reçoivent la même onde électromagnétique, si on ramène le signal au foyer d'un instrument qui décale la deuxième onde d'une demi longueur d'onde, l'addition de deux sources lumineuses de l'étoile est égale à zéro. On a ainsi éteint la lumière de l'étoile. <br>Toute lumière qui ne sera pas parfaitement alignée avec les télescopes ne sera pas éteinte bien au contraire elle va s'additionner, c'est exactement ce que veulent les scientifiques de la mission, ils veulent voir la planète sans être éblouis par&nbsp; l'étoile proche. La lumière de la planète est déphasée par rapport à celle de l'étoile, c'est pourquoi elle n'est pas éteinte. L'utilisation de plusieurs télescopes combinés permet d'obtenir une haute résolution angulaire qui dépend de la distance entre les télescopes. La petite flottille de télescopes sera positionnée sur le point de Lagrange L2, dans l'ombre de la Terre, à l'abri des rayons solaires. <br><br><em>nota : «&nbsp;Les étoiles sont des soleils comme le nôtre et il y a une multitude de soleils librement suspendus dans un espace sans limite, entourés de planètes, comme la Terre, peuplées d'êtres vivants... Le soleil est seulement une étoile parmi d'autres, particulière parce que très proche de nous. Le soleil n'a pas de position centrale dans l'infini sans frontière.&nbsp;» <br>Giordano Bruno (1548-1600),&nbsp;philosophe, théologien et scientifique, accusé d'athéisme et d'hérésie par l'Inquisition, et exécuté le 17 février 1600 à Rome.</em></p></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionImage"><a title="détection transit exoplanète" href="/images/exoplanetes/detection-transit-exoplanete.jpg" onclick="openImg(this.href, 20, 20); return false;"><img class="imgEdition" alt="détection transit exoplanète" src="/images/exoplanetes/detection-transit-exoplanete_medium.jpg"></a><h3>Image : Un transit (micro-éclipse périodique) se produit à chaque fois que la planète passe entre son étoile et l'observateur, à ce moment là, la planète occulte un peu de la lumière de l'étoile, produisant un assombrissement périodique détectable. Cette remarquable idée est utilisée pour détecter la planète et déterminer directement sa taille et son orbite. Le diamètre de Jupiter est 10 fois plus petit que celui du Soleil, Jupiter masque donc 1% de la luminosité du Soleil lorsqu'il passe devant pour un observateur lointain. La Terre elle, est 100 fois plus petite que le Soleil, elle ne masque donc que 1/10&nbsp;000ème de sa luminosité soit 0.01% lorsqu'elle passe entre le Soleil et l'observateur. Mais ce que l'on voit est un signal de luminosité qui baisse et non la planète. <br>Avec DARWIN on verra la planète ou plutôt son atmosphère qui reflètera la lumière de son étoile éteinte par un coronographe interférométrique. Toute lumière qui sera parfaitement alignée avec les télescopes (celle de l'étoile) sera éteinte et ainsi la planète pourra être vue sans être ébloui par&nbsp;l'étoile proche.</h3></td></tr></table><!--webbot bot="Include" u-include="../../_include/_footers/_exoplanetes-fr.html" tag="BODY" startspan -->
+
+<table class="tableauGrand">
+	 <tr><td colspan="6">&nbsp;</td></tr>
+	 <tr><td class="menuCenter"><a href="/fr/actualites/gliese581g.html"><img alt="Gliese 581 dans la constellation de la Balance" src="/images/articles/gliese581g-illustration_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/rama.html"><img alt="Rama, vaisseau extraterrestre" src="/images/exoplanetes/rama.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/exoplanete-kepler-22b.html"><img alt="Kepler 22b, une petite exoplanète dans la zone habitable de Kepler 22" src="/images/exoplanetes/systeme-kepler-22b_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/planetes-habitables.html"><img alt="kepler 11" src="/images/exoplanetes/kepler11_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/trappist-ou-l-harmonie-du-cosmos.html"><img alt="Trappist ou l'harmonie du cosmos" src="/images/exoplanetes/trappist-1_small.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/telescope-jwst.html"><img alt="JWST, James Webb Telescope Spatial " src="/images/telescopes/jwst-point-l2_150.jpg" class="imgSmall"></a></td>
+	 </tr>
+	 <tr>
+		 <td class="menuCenter"><a href="/fr/actualites/gliese581g.html">Gliese 581g, l'exoplanète<br>de la Balance...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/rama.html">Rama, science-fiction<br>ou réalité ?</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/exoplanete-kepler-22b.html">Kepler 22b, est dans<br>une zone habitable...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/planetes-habitables.html">6 planètes de la taille<br>de la Terre, découvertes...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/trappist-ou-l-harmonie-du-cosmos.html">Trappist ou l'harmonie du cosmos...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/telescope-jwst.html">JWST, la fin de l'âge<br>des ténèbres...</a></td>
+	 </tr>
+	 <tr>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+	 </tr>
+	 <tr>
+		 <td class="menuCenter"><a href="/fr/articles/exoplanetes-milliards-de-terres.html"><img alt="Méthode de microlentille" src="/images/exoplanetes/microlentille-exoplanete_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/exoplanete-cancri-55.html"><img alt="55 Cancri e et le système Cancri" src="/images/exoplanetes/exoplanete-cancri-55e_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/exoplanetes.html"><img alt="Détection des exoplanètes" src="/images/exoplanetes/exoplanetes.png" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/telescope-cheops.html"><img alt="Cheops, télescope spatial et caractéristiques des exoplanètes" src="/images/planetes/venus/venus-transit-2012_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/exoplanete-hd-100546.html"><img alt="Protoplanète autour de l'étoile HD100546" src="/images/exoplanetes/proto-planete-hd100546-eso_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/mini-neptunes.html"><img alt="mini-neptunes ou naines de gaz, exoplanètes" src="/images/exoplanetes/mini-neptune_small.jpg" class="imgSmall"></a></td>
+	 </tr>
+	 <tr>
+		 <td class="menuCenter"><a href="/fr/articles/exoplanetes-milliards-de-terres.html">Des centaines de milliards<br>de planètes...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/exoplanete-cancri-55.html">55 Cancri e,<br>la planète de diamant...</a></td>
+		 <td class="menuCenter"><a href="/fr/exoplanetes.html">Détections<br>des exoplanètes...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/telescope-cheops.html">Cheops, caractéristiques<br>des exoplanètes...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/exoplanete-hd-100546.html">Protoplanète autour<br>de l'étoile HD100546...</a></td>
+		 <td class="menuCenter"><a href="/fr/mini-neptunes.html">Mini-Neptunes<br>ou naines de gaz...</a></td>
+	 </tr>
+</table>
+
+
+<table class="tableauGrand">
+	 <tr><td colspan="6">&nbsp;</td></tr>
+	 <tr><td class="TexteBasDePage"><a href="http://www.astronoo.com">1997 © Astronoo.com</a> &minus; Astronomie, Astrophysique, Évolution et Sciences de la Terre.<br>
+		 <a href="http://mylene-simoes.fr/" target="_blank">Directrice Artistique &amp; Créative : Mylène Simoes</a></td>
+		 <td>
+				<!-- Begin Mentions légales -->
+				<script type="text/javascript" src="/js/cookiechoices.js"></script>
+				<script type="text/javascript">
+				  document.addEventListener('DOMContentLoaded', function(event) {
+				    cookieChoices.showCookieConsentBar('En poursuivant votre navigation sur ce site, vous acceptez l\'utilisation de cookies afin d\'adapter les contenus publicitaires et de réaliser des statistiques de navigation.',
+				      '[j\'accepte]', '[en savoir plus]', 'http://www.astronoo.com/mentions-legales.html');
+				  });
+				</script>
+				<!-- End Mentions légales -->
+		 </td>
+	 </tr>
+	 <tr>
+		 <td class="TexteBasDePage">
+				<a href="mailto:contact@astronoo.com">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="/mentions-legales.html">Mentions légales</a>
+		 </td>
+		 <td>		 <!-- XITI  --><a href="http://www.xiti.com/xiti.asp?s=223107" target="_blank" title="Xiti (Nouvelle fenêtre)"><script type="text/javascript">
+				Xt_param= 's=223107&p='+window.location.pathname;
+				try {Xt_r = top.document.referrer;}
+				catch(e) {Xt_r = document.referrer; }
+				Xt_h = new Date();
+				Xt_i = '<img width="80" height="15" alt="" ';
+				Xt_i += 'src="http://logv29.xiti.com/rcg.xiti?'+Xt_param;
+				Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+				if(parseFloat(navigator.appVersion)>=4)
+				{Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+				document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Internet Audience">');
+				</script></a></td>
+	 </tr>
+</table>
+
+
+<!--webbot bot="Include" endspan i-checksum="327" --></td><td><table><tr><td class="bandeauDroit"><!--webbot bot="Include" tag="BODY" u-include="../../_include/_bandeau-droit.html" startspan -->
+<table class="table">
+	 <tr>
+		 <td>
+		 <div class="pubDroit">
+		 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- AstronooBandeauDroit -->
+					<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7403875279341833" data-ad-slot="6054688441" data-ad-format="auto"></ins>
+			<script> (adsbygoogle = window.adsbygoogle || []).push({});</script>
+     	</div>
+		 </td>
+	 </tr>
+	 <tr>
+		 <td>
+		 <script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-5840696-1");
+		pageTracker._trackPageview();
+		</script>
+		</td>
+	 </tr>
+</table>
+<script type="text/javascript" src="/js/glossary.js"></script>
+<!--webbot bot="Include" endspan i-checksum="27039" --></td></tr><tr><td class="bandeauDroit"><a href="../actualites/tardigrade.html"><img alt="tardigrade, ourson d'eau, water bear" class="imgSmall" src="/images/articles/tardigrade_small.jpg"></a></td></tr><tr><td class="bandeauDroit"><a href="../actualites/tardigrade.html">Tardigrade,<br>l'animal immortel...</a></td></tr><tr><td>&nbsp;</td></tr><tr><td class="bandeauDroit"><a href="../articles/systeme-kepler-186.html"><img alt="Système Kepler-186" src="../../images/exoplanetes/kepler-186_small.jpg" class="imgSmall"></a></td></tr><tr><td class="bandeauDroit"><a href="../articles/systeme-kepler-186.html">La zone habitable du<br>système Kepler-186...</a></td></tr><tr><td>&nbsp;</td></tr><tr><td class="bandeauDroit"><a href="exoplanetes-flottantes.html"><img alt="exoplanètes flottantes ou libres" src="/images/exoplanetes/explanete-flottante_150.jpg" class="imgSmall"></a></td></tr><tr><td class="bandeauDroit"><a href="exoplanetes-flottantes.html">Des milliards de<br>planètes flottantes...</a></td></tr><tr><td>&nbsp;</td></tr><tr><td class="bandeauDroit"><a href="ordovicien.html"><img alt="explosion de la vie dans l'ordovicien" class="imgSmall" src="/images/articles/ordovicien-vie-ocean_small.jpg"></a></td></tr><tr><td class="bandeauDroit"><a href="ordovicien.html">L'explosion de la vie<br>dans l'ordovicien...</a></td></tr></table></td></tr></table></div></body></html>
