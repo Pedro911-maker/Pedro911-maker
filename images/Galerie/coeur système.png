@@ -1,0 +1,438 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Soleil, la puissance du système — Astronoo</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="Content-Language" content="fr"><meta name="keywords" content="soleil étoile, puissance, radiation, "><meta name="description" content="Le cœur du système, la puissance gigantesque du Soleil."><meta name="copyright" content="© Astronoo"><meta name="Author" content="Christian Simoes"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><link rel="stylesheet" type="text/css" href="/styles/astronoo.css"><link rel="stylesheet" type="text/css" href="/styles/menu.css"><script type="text/javascript" src="/js/openFrame.js"></script>
+
+<script type="text/javascript">
+var flags = null;
+function changeLang(a, lang){
+	var newUrl = document.getElementById("lang-" + lang);
+	if(newUrl){
+		a.href = newUrl.href;
+	}
+	else{
+		a.href = "/" + lang + "/index.html";
+	}
+	return true;
+}
+</script>
+
+<script data-ad-client="ca-pub-7403875279341833" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+</head><body><div id="flagLanguage"><a id="lang-fr" href="/fr/articles/coeur-du-systeme.html">fr</a> <a id="lang-en" href="/en/articles/heart-of-the-system.html">en</a> <a id="lang-es" href="/es/articulos/corazon-del-sistema.html">es</a> <a id="lang-pt" href="/pt/artigos/coracao-do-sistema.html">pt</a> </div><div class="divGlobal"><!--webbot bot="Include" u-include="../../_include/_menu/_menu-fr.html" tag="BODY" startspan -->
+
+<table class="table1200">
+	 <tr>
+		 <td class="tdImgLogoAstronoo"><a href="http://www.astronoo.com/fr/"><img alt="astronomie" src="/images/logos/astronoo-logo-fr.gif"></a></td>
+		 <td><table id="menuList">
+			  <tr>
+				  <td>&nbsp;</td>
+			  </tr>
+			  <tr>
+				  <td><div class="menu">
+					  <div id="T1" name="mntitle" class="menuTitle menuTitle1">
+						  Particules</div>
+					  <div id="S_T1" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Tableau des éléments chimiques" name="aitem" href="../tableau-elements.html" target="_self">Éléments</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Les particules de la matière" name="aitem" href="particules-subatomiques.html" target="_self">Particules</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Électron, particule quantique" name="aitem" href="electron.html" target="_self">Électron</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Hadrons, particules subatomiques" name="aitem" href="hadron.html" target="_self">Hadron</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Atome" name="aitem" href="atome.html" target="_self">Atome</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Spectre électromagnétique et lumière" name="aitem" href="spectre-electromagnetique.html" target="_self">Lumière</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Voyage du photon" name="aitem" href="voyage-du-photon.html" target="_self">Photon</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Taille des nanoparticules" name="aitem" href="nanoparticules.html" target="_self">Nanoparticules</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Neutrino et composants de la matière" name="aitem" href="neutrino.html" target="_self">Neutrino</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Vide absolu et ultravide" name="aitem" href="vide.html" target="_self">Vide</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Magnétisme" name="aitem" href="magnetisme-et-moment-magnetique.html" target="_self">Magnétisme</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="LHC, le grand collisionneur de hadrons" name="aitem" href="lhc.html" target="_self">LHC</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Champ quantique" name="aitem" href="theorie-quantique-des-champs.html" target="_self">Champ quantique</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T2" name="mntitle" class="menuTitle menuTitle2">
+						  La vie</div>
+					  <div id="S_T2" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="L'inerte et le vivant" name="aitem" href="inerte-et-vivant.html" target="_self">L&#39;inerte et le vivant</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Cellule et système vivant" name="aitem" href="cellule-vivante.html" target="_self">Le vivant</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="L´eau liquide, la molécule parfaite" name="aitem" href="eau-liquide.html" target="_self">Eau liquide</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Sommes-nous seuls dans l´univers" name="aitem" href="sommes-nous-seuls.html" target="_self">Sommes-nous seuls</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Toumaï dans le désert du Tchad, crâne fossile" name="aitem" href="toumai.html" target="_self">Toumaï</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Vie des abysses, organismes étonnants" name="aitem" href="vie-des-abysses.html" target="_self">Les abysses</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Ordovicien ou l´explosion de la vie" name="aitem" href="ordovicien.html" target="_self">Explosion de la vie</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="L´homme de Néandertal" name="aitem" href="neandertal.html" target="_self">Néandertal</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Asimo le furur humanoïde" name="aitem" href="asimo.html" target="_self">Asimo</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Les tardigrades" name="aitem" href="../actualites/tardigrade.html" target="_self">Les tardigrades</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Réchauffement climatique et effet de serre" name="aitem" href="rechauffement.html" target="_self">Le réchauffement</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T3" name="mntitle" class="menuTitle menuTitle3">
+						  Planètes</div>
+					  <div id="S_T3" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Simulateur en ligne sur la position des planètes" name="aitem" href="positions-des-planetes.html" target="_self">Simulateur</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Mercure la plus petite planète" name="aitem" href="../mercure.html" target="_self">Mercure</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Vénus la planète la plus chaude" name="aitem" href="../venus.html" target="_self">Vénus</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Terre, planète bleue" name="aitem" href="../terre.html" target="_self">Terre</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Mars la planète chérie" name="aitem" href="../mars.html" target="_self">Mars</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Astéroïdes et météorites" name="aitem" href="../asteroides.html" target="_self">Astéroïdes</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Jupiter la planète protectrice" name="aitem" href="../jupiter.html" target="_self">Jupiter</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Saturne la planète aux anneaux" name="aitem" href="../saturne.html" target="_self">Saturne</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Uranus la planète couchée" name="aitem" href="../uranus.html" target="_self">Uranus</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Neptune la dernière planète" name="aitem" href="../neptune.html" target="_self">Neptune</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Planètes naines au delà de Neptune" name="aitem" href="../planetes-naines.html" target="_self">Planètes naines</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Comètes, figure de malheur dans le nuage de Oort" name="aitem" href="../cometes.html" target="_self">Comètes</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Exoplanètes, planètes extrasolaires" name="aitem" href="../exoplanetes.html" target="_self">Exoplanètes</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T4" name="mntitle" class="menuTitle menuTitle4">
+						  Étoiles</div>
+					  <div id="S_T4" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Étoiles, masse et composition" name="aitem" href="../etoiles.html" target="_self">Étoiles</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Étoiles proches" name="aitem" href="../etoiles-proches.html" target="_self">Étoiles proches</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Étoiles brillantes" name="aitem" href="../etoiles-brillantes.html" target="_self">Étoiles brillantes</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Supernova" name="aitem" href="../supernova.html" target="_self">Supernova</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Amas d'étoiles de la Galaxie" name="aitem" href="../amas-etoiles.html" target="_self">Amas d&#39;étoiles</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Constellations, figures imaginaires" name="aitem" href="../constellations.html" target="_self">Constellations</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Pulsars, étoiles naines" name="aitem" href="../pulsar.html" target="_self">Pulsars</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Système solaire et planètes" name="aitem" href="../systeme-solaire.html" target="_self">Système solaire</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Soleil, étoile naine jaune" name="aitem" href="../soleil.html" target="_self">Soleil</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Héliosphère" name="aitem" href="heliosphere.html" target="_self">Héliosphère</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Poussière interstellaire" name="aitem" href="poussiere-interstellaire.html" target="_self">Poussière interstellaire</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Signes du zodiaque, Astrologie, votre signe astral" name="aitem" href="../zodiaque.html" target="_self">Signes du Zodiaque</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T5" name="mntitle" class="menuTitle menuTitle5">
+						  Galaxies</div>
+					  <div id="S_T5" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Galaxies elliptiques, spirales, irrégulières" name="aitem" href="../galaxies.html" target="_self">Galaxies</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Quasars, noyaux de galaxies lointaines" name="aitem" href="../quasar.html" target="_self">Quasars</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Voie Lactée ou Galaxie" name="aitem" href="../voie-lactee.html" target="_self">Voie lactée</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Ceinture de Gould" name="aitem" href="../ceinture-de-gould.html" target="_self">Ceinture de Gould</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Nébuleuses, nuage de gaz et de poussières" name="aitem" href="../nebuleuses.html" target="_self">Nébuleuses</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Nébuleuses planétaires" name="aitem" href="../nebuleuses-planetaires.html" target="_self">Nébuleuses planétaires</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Nébuleuses obscures" name="aitem" href="../nebuleuses-obscures.html" target="_self">Nébuleuses obscures</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Trous noirs et champ gravitationnel" name="aitem" href="trous-noirs.html" target="_self">Trou noir</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Groupe Local" name="aitem" href="../groupe-local.html" target="_self">Groupe Local</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T6" name="mntitle" class="menuTitle menuTitle6">
+						  Univers</div>
+					  <div id="S_T6" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Vide quantique" name="aitem" href="vide-quantique.html" target="_self">Vide quantique</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Amas galactiques, grosses structure de l´Univers" name="aitem" href="../amas-galactiques.html" target="_self">Amas de galaxies</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Superamas" name="aitem" href="superamas-laniakea.html" target="_self">Superamas</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Big Bang, rayonnement fossile" name="aitem" href="../bigbang.html" target="_self">Big Bang</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Multivers, bulle cosmique en expansion" name="aitem" href="../multivers.html" target="_self">Multivers</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="L´Univers et son origine" name="aitem" href="../univers.html" target="_self">Univers</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Matière noire" name="aitem" href="matiere-noire-energie.html" target="_self">Matière noire</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Énergie noire" name="aitem" href="energie-noire.html" target="_self">Énergie noire</a></div>
+					  </div>
+				  </div>
+				  </td>
+				  <td><div class="menu">
+					  <div id="T7" name="mntitle" class="menuTitle menuTitle7">
+&nbsp;&nbsp;&nbsp; ...</div>
+					  <div id="S_T7" name="items">
+						  <div class="fixWidth">
+						  </div>
+						  <div name="item" class="menuItem">
+							  <a title="Articles d´astronomie" name="aitem" href="articles-astronomie-p16.html" target="_self">Articles</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Biographies, hommes de sciences" name="aitem" href="../biographies.html" target="_self">Biographies</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Sondes spatiales ou l´homme dans l´espace" name="aitem" href="../sondes-spatiales.html" target="_self">Sondes</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Satellite d´observation, la surveillance de la Planète" name="aitem" href="../satellites-observation.html" target="_self">Satellites</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Télescopes spatiaux, la surveillance du système" name="aitem" href="../telescopes-spatiaux.html" target="_self">Télescopes spatiaux</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Les plus grands télescopes terrestres" name="aitem" href="../telescopes-terrestres.html" target="_self">Télescopes terrestres</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Citations des hommes de sciences" name="aitem" href="../citations.html" target="_self">Citations</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Faq réponses sur la physique de l´Univers" name="aitem" href="../faq.html" target="_self">FAQ</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Astronomie pour les enfants" name="aitem" href="../enfants/index.html" target="_self">Astronomie enfants</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Vidéos et documentaires sur l´Univers" name="aitem" href="../videos/videos-astronomie-p1.html" target="_self">Vidéos</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="Partenaires, références, boutiques" name="aitem" href="../partenaires.html" target="_self">Partenaires</a></div>
+						  <div name="item" class="menuItem">
+							  <a title="A propos du site astronoo, l´espace infini" name="aitem" href="../a-propos.html" target="_self">à propos...</a></div>
+					  </div>
+				  </div>
+				  </td>
+			  </tr>
+		 </table>
+		 <script type="text/javascript">var _0x3405=["\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x75\x6E\x64\x65\x66\x69\x6E\x65\x64","\x61\x74\x74\x61\x63\x68\x45\x76\x65\x6E\x74","\x6F\x6E","\x65\x76\x65\x6E\x74","\x74\x61\x72\x67\x65\x74","\x73\x72\x63\x45\x6C\x65\x6D\x65\x6E\x74","\x6E\x6F\x64\x65\x54\x79\x70\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65","\x74\x69\x6D\x65\x6F\x75\x74","\x66\x63\x74","\x6D\x65\x6E\x75\x4C\x69\x73\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x69\x74\x65\x6D\x73","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x4E\x61\x6D\x65","\x6C\x65\x6E\x67\x74\x68","\x64\x69\x76","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x6E\x61\x6D\x65","\x67\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x6D\x6F\x75\x73\x65\x6F\x76\x65\x72","\x6D\x6E\x74\x69\x74\x6C\x65","\x53\x5F","\x69\x64","\x6F\x72\x69\x67\x43\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x20\x6D\x65\x6E\x75\x54\x69\x74\x6C\x65\x53\x65\x6C\x65\x63\x74\x65\x64","\x64\x69\x73\x70\x6C\x61\x79","\x73\x74\x79\x6C\x65","\x62\x6C\x6F\x63\x6B","\x6F\x66\x66\x73\x65\x74\x4C\x65\x66\x74","\x70\x78","\x6C\x65\x66\x74","\x69\x74\x65\x6D","\x6D\x65\x6E\x75\x49\x74\x65\x6D\x20\x6D\x65\x6E\x75\x49\x74\x65\x6D\x53\x65\x6C\x65\x63\x74\x65\x64","\x61\x69\x74\x65\x6D","\x63\x6C\x69\x63\x6B","\x63\x68\x69\x6C\x64\x4E\x6F\x64\x65\x73","\x68\x72\x65\x66","\x5F\x73\x65\x6C\x66","","\x6F\x70\x65\x6E","\x6D\x6F\x75\x73\x65\x6F\x75\x74","\x6E\x6F\x6E\x65","\x6D\x65\x6E\x75\x49\x74\x65\x6D"];function addEventLst(_0x88cbx2,_0x88cbx3,_0x88cbx4){if( typeof _0x88cbx2[_0x3405[0]]!=_0x3405[1]){_0x88cbx2[_0x3405[0]](_0x88cbx3,_0x88cbx4,false);} else {if( typeof _0x88cbx2[_0x3405[2]]!=_0x3405[1]){_0x88cbx2[_0x3405[2]](_0x3405[3]+_0x88cbx3,_0x88cbx4);} else {_0x88cbx2[_0x3405[3]+_0x88cbx3]=_0x88cbx4;} ;} ;} ;function getEvtTarget(_0x88cbx6){var _0x88cbx7;if(!_0x88cbx6){var _0x88cbx6=window[_0x3405[4]];} ;if(_0x88cbx6[_0x3405[5]]){_0x88cbx7=_0x88cbx6[_0x3405[5]];} else {if(_0x88cbx6[_0x3405[6]]){_0x88cbx7=_0x88cbx6[_0x3405[6]];} ;} ;if(_0x88cbx7[_0x3405[7]]==3){_0x88cbx7=_0x88cbx7[_0x3405[8]];} ;return _0x88cbx7;} ;var closeTimeout=500;var menuListTimeout= new Object();function setMenuTimeout(_0x88cbxb,_0x88cbx4){clearMenuTimeout(_0x88cbxb);menuListTimeout[_0x88cbxb]={key:_0x88cbxb,fct:_0x88cbx4,timeout:null};menuListTimeout[_0x88cbxb][_0x3405[9]]=setTimeout(_0x88cbx4,closeTimeout);} ;function clearMenuTimeout(_0x88cbxb){if(menuListTimeout[_0x88cbxb]&&menuListTimeout[_0x88cbxb][_0x3405[9]]!=null){clearTimeout(menuListTimeout[_0x88cbxb][_0x3405[9]]);delete menuListTimeout[_0x88cbxb];} ;} ;function pauseMenuTimeout(_0x88cbxb){if(menuListTimeout[_0x88cbxb]&&menuListTimeout[_0x88cbxb][_0x3405[9]]!=null){clearTimeout(menuListTimeout[_0x88cbxb][_0x3405[9]]);menuListTimeout[_0x88cbxb][_0x3405[9]]=null;} ;} ;function restartMenuTimeout(_0x88cbxb){pauseMenuTimeout(_0x88cbxb);if(menuListTimeout[_0x88cbxb]){menuListTimeout[_0x88cbxb][_0x3405[9]]=setTimeout(menuListTimeout[_0x88cbxb][_0x3405[10]],closeTimeout);} ;} ;function execMenuTimeout(_0x88cbx10){for(var _0x88cbxb in menuListTimeout){if(_0x88cbx10!=_0x88cbxb&&menuListTimeout[_0x88cbxb]){clearTimeout(menuListTimeout[_0x88cbxb][_0x3405[9]]);menuListTimeout[_0x88cbxb][_0x3405[10]]();delete menuListTimeout[_0x88cbxb];} ;} ;} ;var menuList=document[_0x3405[12]](_0x3405[11]);var itemsList=document[_0x3405[14]](_0x3405[13]);if(!itemsList||itemsList[_0x3405[15]]<1){itemsList=document[_0x3405[17]](_0x3405[16]);} ;for(var i=0;i<itemsList[_0x3405[15]];i++){if(itemsList[i][_0x3405[19]](_0x3405[18])==_0x3405[13]){itemsList[i][_0x3405[20]]=_0x3405[13];} ;} ;if(menuList){addEventLst(menuList,_0x3405[21],function (_0x88cbx14){var _0x88cbx15=getEvtTarget(_0x88cbx14);if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[22]){clearMenuTimeout(_0x3405[23]+_0x88cbx15[_0x3405[24]]);execMenuTimeout(_0x3405[23]+_0x88cbx15[_0x3405[24]]);if(!_0x88cbx15[_0x3405[25]]){_0x88cbx15[_0x3405[25]]=_0x88cbx15[_0x3405[20]];} ;_0x88cbx15[_0x3405[20]]=_0x88cbx15[_0x3405[25]]+_0x3405[26];var _0x88cbx16=document[_0x3405[12]](_0x3405[23]+_0x88cbx15[_0x3405[24]]);_0x88cbx16[_0x3405[28]][_0x3405[27]]=_0x3405[29];var _0x88cbx17=_0x88cbx15[_0x3405[30]]+_0x3405[31];if(_0x88cbx16[_0x3405[28]][_0x3405[32]]!=_0x88cbx17){_0x88cbx16[_0x3405[28]][_0x3405[32]]=_0x88cbx17;} ;} else {if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[33]){if(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[19]](_0x3405[18])==_0x3405[13]){pauseMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[24]]);} else {pauseMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[24]]);} ;_0x88cbx15[_0x3405[20]]=_0x3405[34];} else {if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[35]){if(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[19]](_0x3405[18])==_0x3405[13]){pauseMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[24]]);} else {pauseMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[24]]);} ;_0x88cbx15[_0x3405[8]][_0x3405[20]]=_0x3405[34];} ;} ;} ;} );addEventLst(menuList,_0x3405[36],function (_0x88cbx14){var _0x88cbx15=getEvtTarget(_0x88cbx14);if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[33]){for(var i=0;i<_0x88cbx15[_0x3405[37]][_0x3405[15]];i++){if(_0x88cbx15[_0x3405[37]][i]&&_0x88cbx15[_0x3405[37]][i][_0x3405[19]]&&_0x88cbx15[_0x3405[37]][i][_0x3405[19]](_0x3405[18])==_0x3405[35]){window[_0x3405[41]](_0x88cbx15[_0x3405[37]][i][_0x3405[19]](_0x3405[38]),_0x3405[39],_0x3405[40]);} ;} ;} ;} );addEventLst(menuList,_0x3405[42],function (_0x88cbx14){var _0x88cbx15=getEvtTarget(_0x88cbx14);if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[22]){setMenuTimeout(_0x3405[23]+_0x88cbx15[_0x3405[24]],function (){_0x88cbx15[_0x3405[20]]=_0x88cbx15[_0x3405[25]];document[_0x3405[12]](_0x3405[23]+_0x88cbx15[_0x3405[24]])[_0x3405[28]][_0x3405[27]]=_0x3405[43];} );} else {if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[33]){if(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[19]](_0x3405[18])==_0x3405[13]){restartMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[24]]);} else {restartMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[24]]);} ;_0x88cbx15[_0x3405[20]]=_0x3405[44];} else {if(_0x88cbx15[_0x3405[19]](_0x3405[18])==_0x3405[35]){if(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[19]](_0x3405[18])==_0x3405[13]){restartMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[8]][_0x3405[24]]);} else {restartMenuTimeout(_0x88cbx15[_0x3405[8]][_0x3405[24]]);} ;_0x88cbx15[_0x3405[8]][_0x3405[20]]=_0x3405[44];} ;} ;} ;} );} ;</script>
+		 </td>
+	 </tr>
+</table>
+<table class="table1200">
+	 <tr>
+		 <td></td>
+		 <td class="tdSearchGoogle">
+		 <script async src="https://cse.google.com/cse.js?cx=partner-pub-7403875279341833:n6ilu8-lfoy"></script>
+			<div class="gcse-search"></div>
+		 </td>
+	 </tr>
+</table>
+<table class="table1200">
+	 <tr>
+		 <td><table>
+			  <tr>
+				  <td><a onclick="return changeLang(this, 'en');" title="English" href="/en/index.html"><div class="drapeau en">
+&nbsp;</div>
+				  </a></td>
+				  <td><a onclick="return changeLang(this, 'es');" title="Español" href="/es/index.html"><div class="drapeau es">
+&nbsp;</div>
+				  </a></td>
+				  <td><a onclick="return changeLang(this, 'fr');" title="Français" href="/fr/index.html"><div class="drapeau fr">
+&nbsp;</div>
+				  </a></td>
+				  <td><a onclick="return changeLang(this, 'pt');" title="Português" href="/pt/index.html"><div class="drapeau pt">
+&nbsp;</div>
+				  </a></td>
+				  <td class="ligne">&nbsp;</td>
+				  <td>&nbsp;&nbsp;
+						 <script type="text/javascript">
+						var a="<" + "a tile=\"Concr'ukhs.fm:@?bjàpdA+w>g/";
+						function getCharAt(str, lst){ var out = "";for(var i=0; i<lst.length; i++)out += str.charAt(lst[i]);return out;}
+						document.write(getCharAt(a,[0,1,2,3,4,3,5,6,7,8,9,10,11,3,1,12,3,6,13,2,5,14,1,15,3,6,15,13,8,2,10,11,12,5,4,12,16,7,8,3,17,4,18,19,17,13,6,20,2,7,2,14,21,1,4,5,3,10,22,12,10,11,3,1,12,3,23,1,18,3,13,10,11,10,10,19,12,10,21,24,18,15,25,26,6,12,3,7,27,2,28,13,10,28,10,18,2,29,15,2,18,4,3,6,2,30,18,3,13,10,11,10,10,2,14,2,31,2,32,4,11,29,10,32,19,5,10,12,1,3,4,10,11,19,17,13,6,20,8,33,0,4,21,34,2,1,5,3,7,8,9,10,11,3,1,12,3,6,13,2,5,14,1,15,3,6,15,13,8,2,18,13,12,7,8,35,4,21,1,34,6,18,35,5,10,34,10,18,35,21,1,4,5,19,26,28,34,8,33,0,35,1,33]));
+						</script></td>
+				  <td>&nbsp;&nbsp;
+				  	<a title="flux RSS Astronoo" href="/fr/rssAstronoo.xml" target="_blank"><img alt="rss astronoo" src="/images/logos/rss.jpg"></a>
+				  </td>
+			  </tr>
+		 </table>
+		 </td>
+	 </tr>
+	<tr>
+		<td>
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<ins class="adsbygoogle"
+				     style="display:block"
+				     data-ad-format="autorelaxed"
+				     data-ad-client="ca-pub-7403875279341833"
+				     data-ad-slot="7764746838"></ins>
+				<script>
+				     (adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+		</td>
+	</tr>
+</table>
+<!--webbot bot="Include" endspan i-checksum="37215" --><table class="table1200"><tr><td class="tdBody"><table class="tableauGrand"><tr><td colspan="5"><h1>Le cœur du système</h1></td></tr><tr><td class="colonneEditionSousTitre"><h2>La puissance gigantesque du Soleil</h2></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionVide">&nbsp;</td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionCategorie"><a class="category" href="../rubriques/soleil.html">Catégorie : Soleil</a><br><span class="TexteBasDePage">Mise à jour 01 juin 2013</span></td></tr><tr><td class="colonneEdition"><p>Dans le nuage d&#39;hydrogène moléculaire au cœur de la nébuleuse originale, au fil des millénaires, les noyaux d&#39;hydrogène comprimés par la gravité se transforment en hélium, la fusion nucléaire démarre, le gaz s&#39;enflamme, le Soleil nait dans l&#39;obscurité. C&#39;est ainsi que notre <a target="_blank" href="../soleil.html">Soleil</a>est apparu et a atteint un diamètre énorme de 1 392 000 km. Cette naine jaune est une marmite nucléaire infernale, secouée en permanence par des explosions colossales qui envoient dans l&#39;espace des quantités gigantesques de matière. Depuis 4,57 milliards d&#39;années, notre astre en fusion thermonucléaire envoie dans l&#39;espace une quantité phénoménale d&#39;énergie, et cela va durer encore 5 milliards d&#39;années. <br>Ce réacteur thermonucléaire est vraiment monstrueuse, elle produit une énorme source de chaleur et son énergie est inépuisable, elle est de 380 milliards de milliards de mégawatts, ce qui correspond à 3 800 milliards de fois la puissance de nos 439 réacteurs nucléaires mondiaux, en exploitation en 2011. Chaque mètre carré de l&#39;atmosphère terrestre reçoit environ 1 000 watts. En l&#39;espace d&#39;une seconde, le Soleil dégage sans faiblir, plus d&#39;énergie que n&#39;a produit le civilisation humaine depuis sa naissance et cela dure depuis 4 milliards d&#39;années. Cependant, à 150 millions de km la Terre ne reçoit qu&#39;une toute petite quantité de cette énergie, à peine 2 milliardième du rayonnement émis.&nbsp; La température moyenne actuelle de la Terre (15°C), est liée à la puissance solaire moyenne reçue sur Terre et à la distance Terre/Soleil. Le calcul de la puissance reçue sur Terre en watt par mètre carré, est de 239 w/m<sup>2</sup>. La consommation c&#39;est à dire la perte de masse du Soleil est de 4 millions de tonnes d&#39;hydrogène par seconde, en effet il transforme 564 millions de tonnes d&#39;hydrogène en 560 millions de tonnes d&#39;hélium. De plus la température du centre du Soleil croit lentement dans le temps. </p></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEdition"><p>Le Soleil est composé principalement d&#39;hydrogène (<strong>74%</strong>) et d&#39;hélium (<strong>24%</strong>), le reste de matière est constitué d&#39;oxygène (0,77%), de carbone (0,29%), de fer (0,16%), de néon (0,12%) d&#39;azote (0,09%), de silicium (0,07%), de magnésium (0,05%) et de soufre (0,04%). Cette gigantesque énergie produite au cœur du système, à une température de 15 millions de degrés, est isolée de l&#39;espace interplanétaire par 700 000 km<strong> </strong>de matière, ce qui correspond au rayon du Soleil. La chaleur et la pression sont si intenses que la matière n&#39;est ni solide, ni liquide, ni gazeuse, elle est si chaude qu&#39;elle reste à l&#39;état de <strong>plasma</strong>, les électrons sont séparés des noyaux. Le Soleil éjecte, non seulement des photons, mais aussi des protons et des électrons extrêmement énergétiques qui constituent le <strong>vent solaire</strong>. <br>Ce vent émerge des couches superficielles, et se propage dans l&#39;espace. La Terre n&#39;est pas totalement abritée par son paravent magnétique, le vent solaire, à la vitesse de 400 km/s, s&#39;infiltre par des fentes polaires, pour nous montrer de magnifiques aurores boréales et australes, aux lueurs blanches, vertes et rouges. Soumises au vent solaire, les <a target="_blank" href="../cometes.html">comètes</a> s&#39;ornent d&#39;une queue montrant la direction des bourrasques solaires. C&#39;est à cette immense énergie inépuisable venant du cœur du système, que l&#39;on doit l&#39;apparition de la vie sur Terre. <br><br><em>nota : L&#39;énorme </em><strong><em>puissance du Soleil</em></strong><em>. Le Soleil est vraiment gigantesque, il a capté </em><b><em>99,86% de la masse totale</em></b><em> de la poussière et du gaz de la nébuleuse originelle. </em><strong><em>Jupiter</em></strong><em>, la plus grosse planète du système, a capté </em><strong><em>71%</em></strong><em> du restant. Les autres planètes se sont partagées le </em><strong><em>résidu</em></strong><em> de cette évolution gravitationnelle. </em><br></p></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionImage"><img class="imgEdition" alt="puissance du Soleil" src="/images/soleil/soleil-puissance.jpg"></td></tr><tr><td class="colonneEditionSousTitre"><h2>Protubérances solaires </h2></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionVide">&nbsp;</td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionVide">&nbsp;</td></tr><tr><td class="colonneEdition"><p>Les <strong>protubérances solaires</strong> sont des filaments de la matière du soleil projetés au dessus de sa surface et qui caractérisent l&#39;activité du Soleil. <br>Ce sont des éjections de masses coronales (CME). <br>Les protubérances éruptives du Soleil sont d&#39;énormes geysers de matière solaire qui apparaissent sur la <strong>chromosphère</strong> et qui jaillissent à des centaines de milliers de kilomètres dans l&#39;espace. <br>Pour cela les photons doivent effectuer un voyage infernal depuis le noyau solaire qui transporte les rayons lumineux jusqu’à la Terre. Les photons traversent les différentes couches du Soleil, la zone radiative puis la zone de convection, la photosphère, la chromosphère et enfin la couronne solaire.<br>Le temps de transit d&#39;un photon, du cœur à la surface se situe entre 10 000 et 170 000 ans, en fonction des collisions aléatoires.<br>Au début le photon commence par pénétrer la zone radiative épaisse de 300 000 km, la densité est si élevée que le photon a du mal à avancer, il entre sans cesse en collision avec d’autres particules comme les <a target="_blank" href="atome-image.html">atomes</a> ionisés d’hydrogène et d’hélium. <br>La difficile progression du photon est chaotique, elle est appelée par les scientifiques, <strong>« marche aléatoire du photon</strong> ». </p></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionImage"><object><param name="movie" value="http://www.youtube.com/v/jciUYQHa6-0?fs=1&amp;hl=en_US&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed class="video169" src="http://www.youtube.com/v/jciUYQHa6-0?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"> </embed> </object><h3>Vidéo : Un très long filament solaire qui serpentait dans la couronne solaire a finalement explosé, le 6 décembre 2010. Le SDO (Solar Dynamics Observatory) de la NASA, a filmé cette explosion dans la lumière ultraviolette de l&#39;hélium. Ce filament mesurait presque un million de km de long. Le SDO a eu le temps de filmer cet évènement avant que la rotation du Soleil ne nous cache la vue. <br>Crédit: NASA&#39;s GSFC, SDO AIA Team&nbsp; </h3></td><td class="colonneSeparateur">&nbsp;</td><td class="colonneEditionImage"><a title="protubérance du Soleil" href="/images/soleil/spicules-soleil-nso.jpg" onclick="openImg(this.href, 20, 20); return false;"><img class="imgEdition" alt="protubérance du Soleil" src="/images/soleil/spicules-soleil-nso_medium.jpg"></a> <h3>Image : Gaz extrêmement chaud d&#39;un spicule solaire se déplaçant à la vitesse de 50 000 km/h dans un tube de champ magnétique. Ils sont particulièrement nets autour de la tache visible en bas à gauche de l’image. Les spicules ont une durée de vie d’environ 5 minutes, commençant sous la forme de longs tubes de gaz se soulevant rapidement, puis retombant vers le Soleil.<br>Crédit: K. Reardon (Osservatorio Astrofisico di Arcetri, INAF) IBIS, DST, NSO </h3></td></tr></table><!--webbot bot="Include" u-include="../../_include/_footers/_soleil-fr.html" tag="BODY" startspan -->
+
+<table class="tableauGrand">
+	 <tr><td colspan="6">&nbsp;</td></tr>
+	 <tr><td class="menuCenter"><a href="/fr/articles/tempetes-solaires.html"><img alt="tempêtes solaires" src="/images/soleil/soleil-tempete_small.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/soleil-bleu.html"><img alt="protubérances solaires et spicules" src="/images/soleil/soleil-protuberance-spicule_small.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/actualites/sdo.html"><img alt="anneau de feu vu par SDO" src="/images/soleil/proeminence-solaire-anneau-de-feu_small.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/voyage-du-photon.html"><img alt="le voyage du photon vers la Terre" src="/images/soleil/spicules-soleil-nso_small.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/protuberances-solaires.html"><img alt="protubérances solaires 2010" src="/images/soleil/protuberances-solaires_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/actualites/paradoxe-jeune-soleil.html"><img alt="paradoxe du jeune soleil" src="/images/articles/paradoxe-jeune-soleil-faible_150.gif" class="imgSmall"></a></td>
+	 </tr>
+	 <tr>
+		 <td class="menuCenter"><a href="/fr/articles/tempetes-solaires.html">La tempête parfaite aurait<br>des effets dévastateurs...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/soleil-bleu.html">Les spicules<br>du Soleil bleu...</a></td>
+		 <td class="menuCenter"><a href="/fr/actualites/sdo.html">L&#39;anneau de feu...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/voyage-du-photon.html">Le voyage infernal<br>du photon...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/protuberances-solaires.html">Éjections de masses<br>coronales (CME)...</a></td>
+		 <td class="menuCenter"><a href="/fr/actualites/paradoxe-jeune-soleil.html">Le paradoxe<br>du jeune Soleil...</a></td>
+	 </tr>
+	 <tr>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+	 </tr>
+	 <tr>
+		 <td class="menuCenter"><a href="/fr/actualites/analemme.html"><img alt="analemme" src="/images/articles/analemme-sur-athenes_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/actualites/pilier-solaire.html"><img alt="pilier solaire et cristaux de glace" src="/images/articles/pilier-solaire_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/coeur-du-systeme.html"><img alt="La puissance du Soleil" src="/images/soleil/soleil-puissance_small.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/positions-des-planetes.html"><img alt="Simulateur de révolution et de position des planètes" src="/images/planetes/positions-des-planetes_small.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/soleil.html"><img alt="Soleil, la couronne" src="/images/soleil/couronne-solaire_150.png" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/vents-solaires.html"><img alt="Animation des vents solaires, les flux solaires envoyés vers les planètes" src="/images/soleil/spicule-solaire-geante-30-03-2010_150.jpg" class="imgSmall"></a></td>
+	 </tr>
+	 <tr>
+		 <td class="menuCenter"><a href="/fr/actualites/analemme.html">Explication du « 8 »<br>de l&#39;analemme...</a></td>
+		 <td class="menuCenter"><a href="/fr/actualites/pilier-solaire.html">Pilier solaire, un lien<br>entre ciel et terre...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/coeur-du-systeme.html">Le cœur du système...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/positions-des-planetes.html">Simulateur, la<br>révolution des planètes...</a></td>
+		 <td class="menuCenter"><a href="/fr/soleil.html">Le Soleil...<br></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/vents-solaires.html">Vidéo des vents<br>solaires dans l&#39;espace...</a></td>
+	 </tr>
+	 <tr>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+		 <td>&nbsp;</td>
+	 </tr>
+	 <tr>
+		 <td class="menuCenter"><a href="/fr/actualites/mercure-transit-2003.html"><img alt="Transit de Mercure devant le Soleil" src="/images/planetes/mercure/chercher-mercure_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/eclipse-soleil.html"><img alt="Les grains de Baily, éclipse solaire" src="/images/soleil/grains-de-baily_150.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/moment-cinetique.html"><img alt="moment cinétique de notre système solaire" src="/images/articles/moments-cinetiques_150.png" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/voyage-dans-le-systeme-solaire.html"><img alt="Diversité des objets du système solaire" src="/images/planetes/mars/olympus-mons-on-mars_small.jpg" class="imgSmall"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/eruptions-solaires.html"><img alt="éruption solaire du 15 février 2011" class="imgSmall" src="/images/soleil/eruption-solaire-sdo-15-02-2011_150.jpg"></a></td>
+		 <td class="menuCenter"><a href="/fr/articles/lumieres-du-soleil-et-longueurs-d-onde.html"><img alt="Lumières du Soleil et longueurs d'onde" src="/images/lumiere/lights-of-the-sun-and-wavelengths_small.jpg" class="imgSmall"></a></td>
+	 </tr>
+	 <tr>
+		 <td class="menuCenter"><a href="/fr/actualites/mercure-transit-2003.html">Cherchez Mercure devant<br>l&#39;énorme Soleil...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/eclipse-soleil.html">Les grains de Baily,<br>éclipse solaire...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/moment-cinetique.html">Le paradoxe du moment<br>cinétique du Soleil...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/voyage-dans-le-systeme-solaire.html">Voyage touristique dans<br>le système solaire...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/eruptions-solaires.html">Les plus violentes<br>éruptions solaires...</a></td>
+		 <td class="menuCenter"><a href="/fr/articles/lumieres-du-soleil-et-longueurs-d-onde.html">Les lumières du Soleil...<br>&nbsp;</a></td>
+	 </tr>
+</table>
+
+
+<table class="tableauGrand">
+	 <tr><td colspan="6">&nbsp;</td></tr>
+	 <tr><td class="TexteBasDePage"><a href="http://www.astronoo.com">1997 © Astronoo.com</a> &minus; Astronomie, Astrophysique, Évolution et Sciences de la Terre.<br>
+		 <a href="http://mylene-simoes.fr/" target="_blank">Directrice Artistique &amp; Créative : Mylène Simoes</a></td>
+		 <td>
+				<!-- Begin Mentions légales -->
+				<script type="text/javascript" src="/js/cookiechoices.js"></script>
+				<script type="text/javascript">
+				  document.addEventListener('DOMContentLoaded', function(event) {
+				    cookieChoices.showCookieConsentBar('En poursuivant votre navigation sur ce site, vous acceptez l\'utilisation de cookies afin d\'adapter les contenus publicitaires et de réaliser des statistiques de navigation.',
+				      '[j\'accepte]', '[en savoir plus]', 'http://www.astronoo.com/mentions-legales.html');
+				  });
+				</script>
+				<!-- End Mentions légales -->
+		 </td>
+	 </tr>
+	 <tr>
+		 <td class="TexteBasDePage">
+				<a href="mailto:contact@astronoo.com">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="/mentions-legales.html">Mentions légales</a>
+		 </td>
+		 <td>		 <!-- XITI  --><a href="http://www.xiti.com/xiti.asp?s=223107" target="_blank" title="Xiti (Nouvelle fenêtre)"><script type="text/javascript">
+				Xt_param= 's=223107&p='+window.location.pathname;
+				try {Xt_r = top.document.referrer;}
+				catch(e) {Xt_r = document.referrer; }
+				Xt_h = new Date();
+				Xt_i = '<img width="80" height="15" alt="" ';
+				Xt_i += 'src="http://logv29.xiti.com/rcg.xiti?'+Xt_param;
+				Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+				if(parseFloat(navigator.appVersion)>=4)
+				{Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+				document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Internet Audience">');
+				</script></a></td>
+	 </tr>
+</table>
+
+
+<!--webbot bot="Include" endspan i-checksum="23219" --></td><td><table><tr><td class="bandeauDroit"><!--webbot bot="Include" u-include="../../_include/_bandeau-droit.html" tag="BODY" startspan -->
+<table class="table">
+	 <tr>
+		 <td>
+		 <div class="pubDroit">
+		 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- AstronooBandeauDroit -->
+					<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7403875279341833" data-ad-slot="6054688441" data-ad-format="auto"></ins>
+			<script> (adsbygoogle = window.adsbygoogle || []).push({});</script>
+     	</div>
+		 </td>
+	 </tr>
+	 <tr>
+		 <td>
+		 <script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-5840696-1");
+		pageTracker._trackPageview();
+		</script>
+		</td>
+	 </tr>
+</table>
+<script type="text/javascript" src="/js/glossary.js"></script>
+<!--webbot bot="Include" endspan i-checksum="27039" --></td></tr><tr><td class="bandeauDroit"><a href="aurores.html"><img alt="aurore" src="/images/aurores/aurore-281006-salluit-gilles-boutin_150.jpg" class="imgSmall"></a></td></tr><tr><td class="bandeauDroit"><a href="aurores.html">L&#39;aurore et ses raies<br>de lumière...</a></td></tr><tr><td>&nbsp;</td></tr><tr><td class="bandeauDroit"><a href="../actualites/annee-internationale-de-la-lumiere.html"><img alt="Année de la lumière" src="../../images/etoiles/SNR-0519-69-large-magellanic-cloud_small.jpg" class="imgSmall"></a></td></tr><tr><td class="bandeauDroit"><a href="../actualites/annee-internationale-de-la-lumiere.html">2015 Année Internationale<br>de la Lumière...</a></td></tr><tr><td>&nbsp;</td></tr><tr><td class="bandeauDroit"><a href="../etoiles-proches.html"><img alt="Etoiles proches, proxima centauri" src="../../images/constellations/alpha-centauri_small.jpg" class="imgSmall"></a></td></tr><tr><td class="bandeauDroit"><a href="../etoiles-proches.html">Etoiles proches<br>Alpha Centauri...</a></td></tr><tr><td>&nbsp;</td></tr><tr><td class="bandeauDroit"><a href="../articles/vivre-sur-mars.html"><img alt="Vivre sur la planète Mars" src="../../images/planetes/mars/enfants-de-mars_small.jpg" class="imgSmall"></a></td></tr><tr><td class="bandeauDroit"><a href="../articles/vivre-sur-mars.html">Vivre sur Mars...</a></td></tr></table></td></tr></table></div></body></html>
